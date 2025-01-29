@@ -1,0 +1,5 @@
+[14:50:18] Chatbot: Hello! How can I assist you today?
+[14:50:28] Chatbot: The current time is 14:50:28.
+Sent file: EX 8.docx (287168 bytes)
+[14:50:37] Server: FILE RECEIVED
+[14:50:51] Chatbot: Goodbye! Have a great day!
